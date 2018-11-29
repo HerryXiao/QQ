@@ -11003,7 +11003,7 @@
 }
 #u10414 {
   position:absolute;
-  left:1170px;
+  left:1146px;
   top:124px;
   width:29px;
   height:20px;
@@ -11043,7 +11043,7 @@
 }
 #u10417 {
   position:absolute;
-  left:372px;
+  left:360px;
   top:124px;
   width:57px;
   height:16px;
@@ -11060,8 +11060,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
-  height:20px;
+  width:29px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -11073,17 +11073,17 @@
 }
 #u10419 {
   position:absolute;
-  left:873px;
+  left:845px;
   top:124px;
-  width:57px;
-  height:20px;
+  width:29px;
+  height:16px;
   color:#000000;
 }
 #u10420 {
   position:absolute;
   left:0px;
   top:0px;
-  width:57px;
+  width:29px;
   white-space:nowrap;
 }
 .u10422 {
@@ -11881,7 +11881,7 @@
 #u10466 {
   position:absolute;
   left:228px;
-  top:115px;
+  top:114px;
   width:201px;
   height:91px;
   overflow:hidden;
@@ -12324,9 +12324,9 @@
 #u10486 {
   position:absolute;
   left:218px;
-  top:57px;
+  top:164px;
   width:1282px;
-  height:633px;
+  height:526px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -12335,7 +12335,7 @@
   left:0px;
   top:0px;
   width:1282px;
-  height:633px;
+  height:526px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -14792,7 +14792,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
+  width:98px;
   height:34px;
   background:inherit;
   background-color:rgba(45, 140, 240, 1);
@@ -14811,9 +14811,9 @@
 }
 #u10628 {
   position:absolute;
-  left:1413px;
+  left:1387px;
   top:71px;
-  width:72px;
+  width:98px;
   height:34px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -14824,7 +14824,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
+  width:98px;
   height:34px;
   background:inherit;
   background-color:rgba(87, 163, 243, 1);
@@ -14847,7 +14847,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:72px;
+  width:98px;
   height:34px;
   background:inherit;
   background-color:rgba(247, 247, 247, 1);
@@ -14870,6 +14870,6 @@
   position:absolute;
   left:2px;
   top:9px;
-  width:68px;
+  width:94px;
   word-wrap:break-word;
 }
