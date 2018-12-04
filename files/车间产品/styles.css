@@ -10698,8 +10698,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:53px;
-  height:18px;
+  width:54px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -10717,8 +10717,8 @@
   position:absolute;
   left:266px;
   top:13px;
-  width:53px;
-  height:18px;
+  width:54px;
+  height:16px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
@@ -10729,8 +10729,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:53px;
-  height:18px;
+  width:54px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -12409,9 +12409,9 @@
 #u10488 {
   position:absolute;
   left:218px;
-  top:57px;
+  top:59px;
   width:1282px;
-  height:631px;
+  height:629px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -12420,7 +12420,7 @@
   left:0px;
   top:0px;
   width:1282px;
-  height:631px;
+  height:629px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
